@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--~~~~~~~~~~~~~~~~~~~~~  Dimensions  ~~~~~~~~~~~~~~~~~~~~~-->
+
+<resources>
+
+    <!--***************  Layout Dimensions  ***************-->
+    <dimen name="Layout_Margin_VerticalView">10dp</dimen>
+    <dimen name="Layout_Margin_HorizontalView">5dp</dimen>
+
+    <!--***************  Button Dimensions  ***************-->
+    <dimen name="Button_Height_VerticalView">60dp</dimen>
+    <dimen name="Button_Height_HorizontalView">40dp</dimen>
+    <dimen name="Button_Margin">5dp</dimen>
+
+</resources>
